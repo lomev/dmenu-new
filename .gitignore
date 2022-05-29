@@ -1,0 +1,7 @@
+config.h
+*.orig
+*.rej
+*.o
+dmenu
+stest
+patches
